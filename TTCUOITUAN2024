@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
-https://hqth.me/SCTV15HD
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv262&q=high&pkg=pkg11.hni
+#https://hqth.me/SCTV15HD
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
 http://is.am/5nea|Referer=http://sctvonline.vn/index.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
