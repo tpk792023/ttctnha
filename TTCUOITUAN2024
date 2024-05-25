@@ -1,5 +1,12 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://pipitv.top/logo/sctv15.png" tvg-id="sctv15hd",SCTV15
+https://hqth.me/SCTV15HD|Referer=http://sctvonline.vn/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://pipitv.top/logo/sctv17.png" tvg-id="sctv17hd",SCTV17
+http://is.am/5nea|Referer=http://sctvonline.vn/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://pipitv.top/logo/sctv22.png" tvg-id="sctv22hd",SCTV22
+https://hqth.me/7dwYU|Referer=http://sctvonline.vn/index.m3u8
+
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
 https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 2
@@ -28,13 +35,6 @@ http://113.184.135.207:8889/rtp/232.84.2.176:10864
 http://113.184.135.207:8889/rtp/232.84.2.195:10954
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
 http://113.184.135.207:8889/rtp/232.84.2.196:10960
-
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://pipitv.top/logo/sctv15.png" tvg-id="sctv15hd",SCTV15
-https://hqth.me/SCTV15HD|Referer=http://sctvonline.vn/index.m3u8
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://pipitv.top/logo/sctv17.png" tvg-id="sctv17hd",SCTV17
-http://is.am/5nea|Referer=http://sctvonline.vn/index.m3u8
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://pipitv.top/logo/sctv22.png" tvg-id="sctv22hd",SCTV22
-https://hqth.me/7dwYU|Referer=http://sctvonline.vn/index.m3u8
 
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
