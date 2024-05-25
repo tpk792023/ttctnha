@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U 
 
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
 https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8
@@ -29,8 +29,6 @@ http://113.184.135.207:8889/rtp/232.84.2.195:10954
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
 http://113.162.44.19:8889/rtp/232.84.2.196:10960
 
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv262&q=high&pkg=pkg11.hni
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 https://tth.vn/onsportplus
@@ -63,15 +61,13 @@ http://85.237.89.6:9590/ar-s/bein-7-stop-TimeSheft/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="XEM NGOẠI HẠNG" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/d71ebda5c7fbca9093a1c2978c46f619.png!w60&m2=https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w60",22:00 19/05 | 🔴 Trực tiếp Wesham và Manchester City | BLV A MÕM
+#EXTINF:-1 group-title="CÚP FA" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/d71ebda5c7fbca9093a1c2978c46f619.png!w60&m2=https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w60",22:00 19/05 | 🔴 Trực tiếp Wesham và Manchester City | BLV A MÕM
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@m503nd/playlist.m3u8
 
-#EXTINF:-1 group-title="XEN NGOẠI HẠNG" tvg-logo="https://i.imgur.com/8bwS8gV.jpeg",22:00 19/05 | 🔴 Trực tiếp NGOẠI HẠNG ANH VÒNG 38 | BLV NHÀ ĐÀI
+#EXTINF:-1 group-title="CÚP FA" tvg-logo="https://i.imgur.com/8bwS8gV.jpeg",21:00 26/05 | 🔴 Trực tiếp CHUNG KẾT CÚP FA | BLV NHÀ ĐÀI
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m101nd/playlist.m3u8
-
 #EXTINF:-1 group-title="XEN NGOẠI HẠNG" tvg-logo="https://i.imgur.com/8bwS8gV.jpeg",22:00 19/05 | 🔴 Trực tiếp NGOẠI HẠNG ANH VÒNG 38 | BLV NHÀ ĐÀI
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m504nd/playlist.m3u8
-
 #EXTINF:-1 group-title="XEN NGOẠI HẠNG" tvg-logo="https://i.imgur.com/8bwS8gV.jpeg",22:00 19/05 | 🔴 Trực tiếp NGOẠI HẠNG ANH VÒNG 38 | BLV NHÀ ĐÀI
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@m505nd/playlist.m3u8
 
@@ -87,15 +83,15 @@ https://play.stream-keycdn.com/live/thomohot.m3u8
 https://play.stream-keycdn.com/live/cuadao.m3u8
 
 
-
 #EXTINF:-1 group-title="CÁ HEO TV" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/d71ebda5c7fbca9093a1c2978c46f619.png!w60&m2=https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w60",22:00 19/05 | 🔴 Trực tiếp Wesham và Manchester City | BLV A MÕM
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@momhd1/playlist.m3u8
-
 #EXTINF:-1 group-title="CÁ HEO TV" tvg-logo="https://static.flashscore.com/res/image/data/rsvCPOh5-O4P6Zhap.png",18:00 12/05 | 🔴 Trực tiếp Norwich City và Leeds | BLV H+
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chuduhd1/playlist.m3u8
+
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
 http://is.am/5nea|Referer=http://sctvonline.vn/index.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
 https://hqth.me/7dwYU|Referer=http://sctvonline.vn/index.m3u8
-
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv262&q=high&pkg=pkg11.hni
