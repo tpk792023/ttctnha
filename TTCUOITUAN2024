@@ -1,0 +1,100 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
+https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 2
+https://liveh34.vtvcab.vn/hls/ONSPORT02/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 3
+https://liveh34.vtvcab.vn/hls/ONSPORT03/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 4
+https://liveh34.vtvcab.vn/hls/ONSPORT04/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 5
+https://liveh34.vtvcab.vn/hls/ONSPORT05/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 6
+https://liveh34.vtvcab.vn/hls/ONSPORT06/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 7
+https://liveh34.vtvcab.vn/hls/ONSPORT07/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 8
+https://liveh34.vtvcab.vn/hls/ONSPORT08/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 9
+https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
+#EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 10
+https://liveh34.vtvcab.vn/hls/ONSPORT010/index.m3u8
+#EXTINF:-1 tvg-name="801" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801
+http://113.184.135.207:8889/rtp/232.84.2.175:10858
+#EXTINF:-1 tvg-name="802" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802 HD
+http://113.184.135.207:8889/rtp/232.84.2.176:10864
+#EXTINF:-1 tvg-name="803" group-title="Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803 HD
+http://113.184.135.207:8889/rtp/232.84.2.195:10954
+#EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
+http://113.184.135.207:8889/rtp/232.84.2.196:10960
+
+
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
+https://tth.vn/onsportplus
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
+https://tth.vn/onfootball
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
+https://tth.vn/onsportnews
+#EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg?auto=format&fit=max&w=640", BTV5 - ON SPORT ACTION
+https://tth.vn/btv5hd
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
+https://tth.vn/onsport
+
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport1-FHD
+http://85.237.89.6:9590/ar-s/bein-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport2-FHD
+http://85.237.89.6:9590/ar-s/bein-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport3-FHD
+http://85.237.89.6:9590/ar-s/bein-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport4-FHD
+http://85.237.89.6:9590/ar-s/bein-4-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport5-FHD
+http://85.237.89.6:9590/ar-s/bein-5-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport6-FHD
+http://85.237.89.6:9590/ar-s/bein-6-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport7-FHD
+http://85.237.89.6:9590/ar-s/bein-7-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+
+
+
+#EXTINF:-1 group-title="XEM NGOẠI HẠNG" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/d71ebda5c7fbca9093a1c2978c46f619.png!w60&m2=https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w60",22:00 19/05 | 🔴 Trực tiếp Wesham và Manchester City | BLV A MÕM
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@m503nd/playlist.m3u8
+
+#EXTINF:-1 group-title="XEN NGOẠI HẠNG" tvg-logo="https://i.imgur.com/8bwS8gV.jpeg",22:00 19/05 | 🔴 Trực tiếp NGOẠI HẠNG ANH VÒNG 38 | BLV NHÀ ĐÀI
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m101nd/playlist.m3u8
+
+#EXTINF:-1 group-title="XEN NGOẠI HẠNG" tvg-logo="https://i.imgur.com/8bwS8gV.jpeg",22:00 19/05 | 🔴 Trực tiếp NGOẠI HẠNG ANH VÒNG 38 | BLV NHÀ ĐÀI
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@m504nd/playlist.m3u8
+
+#EXTINF:-1 group-title="XEN NGOẠI HẠNG" tvg-logo="https://i.imgur.com/8bwS8gV.jpeg",22:00 19/05 | 🔴 Trực tiếp NGOẠI HẠNG ANH VÒNG 38 | BLV NHÀ ĐÀI
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@m505nd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Live Ä‘Ă¡ gĂ  (dagathomo.live)" tvg-logo="https://sildeal.vn/wp-content/uploads/2022/04/huong-dan-cach-choi-ca-cuoc-da-ga.jpg" group-title="Ä�Ă¡ gĂ ",Live Ä‘Ă¡ gĂ  (dagathomo.live)
+https://now.rtmp-now.com/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live Ä‘Ă¡ gĂ  (dagasv88.com)" tvg-logo="https://sildeal.vn/wp-content/uploads/2022/04/huong-dan-cach-choi-ca-cuoc-da-ga.jpg" group-title="Ä�Ă¡ gĂ ",Live Ä‘Ă¡ gĂ  (dagathomo.live)
+https://2335510959.global.cdnfastest.com/live/livebong-k2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live Ä‘Ă¡ gĂ  (daga1.tv)" tvg-logo="https://sildeal.vn/wp-content/uploads/2022/04/huong-dan-cach-choi-ca-cuoc-da-ga.jpg" group-title="Ä�Ă¡ gĂ ",Live Ä‘Ă¡ gĂ  (daga1.tv)
+https://fast2.gmnc.xyz/29107_hd/29107_hd@720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live Ä‘Ă¡ gĂ  (daga1.tv)" tvg-logo="https://sildeal.vn/wp-content/uploads/2022/04/huong-dan-cach-choi-ca-cuoc-da-ga.jpg" group-title="Ä�Ă¡ gĂ ",Live Ä‘Ă¡ gĂ  (daga88b.com)
+https://play.stream-keycdn.com/live/thomohot.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Live Ä‘Ă¡ gĂ  (dagacuadao.tv)" tvg-logo="https://sildeal.vn/wp-content/uploads/2022/04/huong-dan-cach-choi-ca-cuoc-da-ga.jpg" group-title="Ä�Ă¡ gĂ ",Live Ä‘Ă¡ gĂ  (dagacuadao.tv)
+https://play.stream-keycdn.com/live/cuadao.m3u8
+
+
+
+#EXTINF:-1 group-title="CÁ HEO TV" tvg-logo="http://bentre5.hoangai.vn:8082/weblau/90p/cover.php?m1=https://img.thesports.com/football/team/d71ebda5c7fbca9093a1c2978c46f619.png!w60&m2=https://img.thesports.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w60",22:00 19/05 | 🔴 Trực tiếp Wesham và Manchester City | BLV A MÕM
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@momhd1/playlist.m3u8
+
+#EXTINF:-1 group-title="CÁ HEO TV" tvg-logo="https://static.flashscore.com/res/image/data/rsvCPOh5-O4P6Zhap.png",18:00 12/05 | 🔴 Trực tiếp Norwich City và Leeds | BLV H+
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@biphd1/playlist.m3u8
+
+
+
