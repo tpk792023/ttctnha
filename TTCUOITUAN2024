@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv262&q=high&pkg=pkg11.hni
-#https://hqth.me/SCTV15HD
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
 http://is.am/5nea|Referer=http://sctvonline.vn/index.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
@@ -36,6 +33,10 @@ http://113.184.135.207:8889/rtp/232.84.2.176:10864
 http://113.184.135.207:8889/rtp/232.84.2.195:10954
 #EXTINF:-1 tvg-name="804" group-title="Sự kiện" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
 http://113.184.135.207:8889/rtp/232.84.2.196:10960
+
+
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv262&q=high&pkg=pkg11.hni
 
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
