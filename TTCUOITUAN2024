@@ -1,9 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
-http://is.am/5nea|Referer=http://sctvonline.vn/index.m3u8
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
-https://hqth.me/7dwYU|Referer=http://sctvonline.vn/index.m3u8
 
 #EXTINF:-1 group-title="Sự Kiện ONPLUS" tvg-logo="https://stvinaprod.vtvcab.vn/6ba1de50-b726-4675-a372-3df496440086.png", ONPLUS LIVE 1
 https://liveh34.vtvcab.vn/hls/ONSPORT01/index.m3u8
@@ -99,7 +95,10 @@ https://play.stream-keycdn.com/live/cuadao.m3u8
 https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@momhd1/playlist.m3u8
 
 #EXTINF:-1 group-title="CÁ HEO TV" tvg-logo="https://static.flashscore.com/res/image/data/rsvCPOh5-O4P6Zhap.png",18:00 12/05 | 🔴 Trực tiếp Norwich City và Leeds | BLV H+
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@biphd1/playlist.m3u8
+https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@chuduhd1/playlist.m3u8
 
-
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
+http://is.am/5nea|Referer=http://sctvonline.vn/index.m3u8
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
+https://hqth.me/7dwYU|Referer=http://sctvonline.vn/index.m3u8
 
